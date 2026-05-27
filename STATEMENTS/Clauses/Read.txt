@@ -1,0 +1,1 @@
+Las CLAUSES son los modificadores que se le pueden aplicar a las QUERIES para modificar en resultado de las mismas.

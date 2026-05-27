@@ -1,0 +1,1 @@
+Los ficheros que se encuentran en esta carpeta son la syntaxis de algunos comandos de SQL en el motor MySQL.

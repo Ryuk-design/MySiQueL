@@ -1,0 +1,1 @@
+Las queries son los distintos tipos de consultas que se pueden realizar en SQL.

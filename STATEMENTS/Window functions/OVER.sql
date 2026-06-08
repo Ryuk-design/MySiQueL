@@ -1,0 +1,6 @@
+/*
+OVER es una palabra clave que hace que una funcion se comporte como WINDOW FUNCTION
+Este se complementa con ORDER BY  y con PARTITION BY
+PARTITION BY separa los datos en grupos independientes sin colapsar los resultados
+ORDER BY define el orden dentro de cada grupo
+*/

@@ -3,6 +3,7 @@ FULL JOIN table2 t2 ON t1.pk = t2.fk
 
 /*
 FULL JOIN es como hacer INNER JOIN U LEFT JOIN U RIGHT JOIN
+en mysql no hay full join nativo, por lo que se debe hacer left join union right join
 */
 
 FROM table1 t1
@@ -29,6 +30,7 @@ Natural join es mejor nunca usarlo
 /*
 SELF JOIN es hacer un join de una tabla sobre si misma
 se debe hacer un uso apropiado de los alias y no existe keyword SELF JOIN, solo el concepto.
+es conceptual y no tiene una keyword especifica
 */
 
 
